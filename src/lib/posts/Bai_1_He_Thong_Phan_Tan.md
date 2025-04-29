@@ -6,13 +6,14 @@ categories:
   - "sveltekit"
   - "markdown"
   - "Ứng dụng phân tán" 
-coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
+coverImage: "/images/anhudpt.png"
 coverWidth: 16
 coverHeight: 9
 excerpt: Định nghĩa về ứng dụng phân tán.
 ---
 
-# Lê Tiến Nhạc - 22010108
+## Lê Tiến Nhạc
+
 # Hệ thống phân tán
 
 ## Hệ thống phân tán là gì?
