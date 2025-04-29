@@ -12,6 +12,7 @@ coverHeight: 9
 excerpt: Định nghĩa về ứng dụng phân tán.
 ---
 
+# Lê Tiến Nhạc - 22010108
 # Hệ thống phân tán
 
 ## Hệ thống phân tán là gì?
