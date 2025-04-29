@@ -1,5 +1,5 @@
 ---
-title: "Hệ thống phân tán"
+title: "Hệ thống phân tán 123 "
 date: "2025-04-28"
 excerpt: "Khám phá các khái niệm cơ bản và ứng dụng của hệ thống phân tán trong các dịch vụ hiện đại."
 category: "Công nghệ"
