@@ -1,8 +1,15 @@
 ---
-title: "Hệ thống phân tán 1234 "
-date: "2025-04-28"
-excerpt: "Khám phá các khái niệm cơ bản và ứng dụng của hệ thống phân tán trong các dịch vụ hiện đại."
-category: "Công nghệ"
+title: "Ứng dụng phân tán"
+date: "2025-4-29"
+updated: "2025-10-29"
+categories:
+  - "sveltekit"
+  - "markdown"
+  - "Ứng dụng phân tán" 
+coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
+coverWidth: 16
+coverHeight: 9
+excerpt: Định nghĩa về ứng dụng phân tán.
 ---
 
 # Hệ thống phân tán
